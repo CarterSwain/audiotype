@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+.venv/
+Pipfile.lock
+poetry.lock
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Environments / credentials
+*.env
+.env.*
+secrets.json
+
+# Byte-compiled / cache files
+*.pyo
+*.pyd
+*.pyc
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+*.spec
