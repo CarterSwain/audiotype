@@ -26,6 +26,8 @@ poetry.lock
 # Environments / credentials
 *.env
 .env.*
+*.pkl
+__pycache__/
 secrets.json
 
 # Byte-compiled / cache files
@@ -50,3 +52,12 @@ coverage.xml
 
 # PyInstaller
 *.spec
+
+# Stopipy cache
+.cache/
+
+# Logs
+logs/
+*.log
+
+
