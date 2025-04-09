@@ -9,7 +9,7 @@ AudioType is a machine learning-powered app that analyzes a user's Spotify liste
 - **Spotify Login**: Authenticates users and pulls their saved tracks via the Spotify API.
 - **Personality Classification**: Uses trained ML models to classify each track into an "AudioType".
 - **Data-Driven Insights**: Visual breakdown of your listening personality.
-- **20 AudioTypes**, grouped into five musical families:
+- **5 AudioTypes**
   - The Stargazer
   - The Mender
   - The Kinetik
